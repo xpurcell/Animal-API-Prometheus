@@ -1,0 +1,14 @@
+C:\Users\xpurcell\source\repos\API Testing\API Testing\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\xpurcell\source\repos\API Testing\API Testing\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\xpurcell\source\repos\API Testing\API Testing\bin\Release\netcoreapp2.1\win-x64\API Testing.exe
+C:\Users\xpurcell\source\repos\API Testing\API Testing\bin\Release\netcoreapp2.1\win-x64\API Testing.deps.json
+C:\Users\xpurcell\source\repos\API Testing\API Testing\bin\Release\netcoreapp2.1\win-x64\API Testing.runtimeconfig.json
+C:\Users\xpurcell\source\repos\API Testing\API Testing\bin\Release\netcoreapp2.1\win-x64\API Testing.runtimeconfig.dev.json
+C:\Users\xpurcell\source\repos\API Testing\API Testing\bin\Release\netcoreapp2.1\win-x64\API Testing.dll
+C:\Users\xpurcell\source\repos\API Testing\API Testing\bin\Release\netcoreapp2.1\win-x64\API Testing.pdb
+C:\Users\xpurcell\source\repos\API Testing\API Testing\obj\Release\netcoreapp2.1\win-x64\API Testing.csprojAssemblyReference.cache
+C:\Users\xpurcell\source\repos\API Testing\API Testing\obj\Release\netcoreapp2.1\win-x64\API Testing.csproj.CoreCompileInputs.cache
+C:\Users\xpurcell\source\repos\API Testing\API Testing\obj\Release\netcoreapp2.1\win-x64\API Testing.AssemblyInfoInputs.cache
+C:\Users\xpurcell\source\repos\API Testing\API Testing\obj\Release\netcoreapp2.1\win-x64\API Testing.AssemblyInfo.cs
+C:\Users\xpurcell\source\repos\API Testing\API Testing\obj\Release\netcoreapp2.1\win-x64\API Testing.dll
+C:\Users\xpurcell\source\repos\API Testing\API Testing\obj\Release\netcoreapp2.1\win-x64\API Testing.pdb

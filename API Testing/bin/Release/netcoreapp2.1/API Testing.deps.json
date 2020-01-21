@@ -1,0 +1,89 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "ed3d49619f93cedcbc736a5814317fc8c83addd7"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "API Testing/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "Selenium.WebDriver": "3.141.0",
+          "Selenium.WebDriver.ChromeDriver": "78.0.3904.10500",
+          "prometheus-net": "3.3.0"
+        },
+        "runtime": {
+          "API Testing.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "prometheus-net/3.3.0": {
+        "runtime": {
+          "lib/netcoreapp2.1/Prometheus.NetCore.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.3.0.0"
+          },
+          "lib/netcoreapp2.1/Prometheus.NetStandard.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.3.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver/3.141.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/WebDriver.dll": {
+            "assemblyVersion": "3.141.0.0",
+            "fileVersion": "3.141.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/78.0.3904.10500": {}
+    }
+  },
+  "libraries": {
+    "API Testing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "prometheus-net/3.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6NYWlNau7MAWokS4Ila42mVCqDpe1YhpxBTQIeIUXOGVC/rScn9JhMAibD6x9H0+Qj+tHzMYERl4+UkUX8+3iQ==",
+      "path": "prometheus-net/3.3.0",
+      "hashPath": "prometheus-net.3.3.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver/3.141.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wPqzXO3f79DzqauTZSzLMKiaBCN0Z2Mv7KvWP+hnV6EL88zh/pJJnFtdIR1X5wa3hsTOpF/bBJs45rz7kArsiA==",
+      "path": "selenium.webdriver/3.141.0",
+      "hashPath": "selenium.webdriver.3.141.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/78.0.3904.10500": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1olFsJvAIkxb21CV9z2TVQFITOo4PkVKoV+xvEsyLsGbBn8HWm57DEn/124icDgh85ANMZgglg0GXDEsGhgckg==",
+      "path": "selenium.webdriver.chromedriver/78.0.3904.10500",
+      "hashPath": "selenium.webdriver.chromedriver.78.0.3904.10500.nupkg.sha512"
+    }
+  }
+}
